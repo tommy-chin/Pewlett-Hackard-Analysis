@@ -7,6 +7,7 @@ A company by the name of Pewlett Hackard is facing an issue where there will soo
 A few major points can be drawn from the retiring employees by title and the employees eligible for the mentorship program.
 * A majority of the retiring employees will be senior level engineers and senior level staff. 
 * Out of the five departments managers, two of them are part of the retiring employees list. 
+![retiring_titles.PNG](https://github.com/tommy-chin/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.PNG)
 * There are a total of 1549 employees eligible to participate in the mentorship program
 ## Summary 
 ### Major Takeaways
